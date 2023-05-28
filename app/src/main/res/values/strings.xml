@@ -3,4 +3,8 @@
     <string name="introductions">Introductions</string>
     <string name="click_me">Click Me</string>
     <string name="next">Next</string>
+    <string name="boot">Boot</string>
+    <string name="previous">Previous</string>
+    <string name="bootcamp">Bootcamp</string>
+    <string name="intro_body">Intro body</string>
 </resources>
